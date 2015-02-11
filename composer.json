@@ -1,0 +1,13 @@
+{
+    "name": "prcyx/prcyx",
+    "type": "library",
+    "description": "Next generation PHP framework",
+    "keywords": ["prcyx", "php framework"],
+    "homepage": "https://github.com/prcyx/prcyx",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prcyx\\Components\\": "src/prcyx/components"
+        },
+    },
+}
